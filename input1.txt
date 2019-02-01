@@ -1,0 +1,13 @@
+Threshold:1
+Infectious Period:2
+Display:2
+s,s,s,s,s,s,s,s,s,s
+s,s,s,s,s,s,s,s,s,s
+s,s,s,s,s,s,s,s,s,s
+s,s,s,s,s,s,s,s,s,s
+s,s,s,s,i,i,s,s,s,s
+s,s,s,s,i,i,s,s,s,s
+s,s,s,s,s,s,s,s,s,s
+s,s,s,s,s,s,s,s,s,s
+s,s,s,s,s,s,s,s,s,s
+s,s,s,s,s,s,s,s,s,s
